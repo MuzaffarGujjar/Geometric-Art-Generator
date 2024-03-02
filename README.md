@@ -1,3 +1,3 @@
-Geometric art generator
-Geometric art generator in html css and javascript
-must try
+# Geometric Art Generator
+Geometric art generator in HTML CSS and JAVASCRIPT
+Must Try
